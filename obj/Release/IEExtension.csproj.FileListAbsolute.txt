@@ -1,0 +1,6 @@
+c:\users\private\documents\visual studio 2012\Projects\IEExtension\IEExtension\bin\Release\IEExtension.dll
+c:\users\private\documents\visual studio 2012\Projects\IEExtension\IEExtension\bin\Release\IEExtension.pdb
+c:\users\private\documents\visual studio 2012\Projects\IEExtension\IEExtension\obj\Release\Interop.SHDocVw.dll
+c:\users\private\documents\visual studio 2012\Projects\IEExtension\IEExtension\obj\Release\IEExtension.csproj.ResolveComReference.cache
+c:\users\private\documents\visual studio 2012\Projects\IEExtension\IEExtension\obj\Release\IEExtension.dll
+c:\users\private\documents\visual studio 2012\Projects\IEExtension\IEExtension\obj\Release\IEExtension.pdb
