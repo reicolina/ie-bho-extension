@@ -1,5 +1,5 @@
 #ie-bho-extension
-Browser Helper Object (BHO) prototype for a IE Extension/PlugIn.
+Browser Helper Object (BHO) prototype for a IE Extension/Plugin.
 
 ## Prerequisites
 This project was written and built using Visual Studio Express 2012 on a Windows 7 VM.
